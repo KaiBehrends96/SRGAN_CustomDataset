@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from ops import *
+from SRGAN_CustomDataset.ops import *
 
 
 class Generator(nn.Module):
